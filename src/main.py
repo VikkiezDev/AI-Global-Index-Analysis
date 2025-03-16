@@ -100,15 +100,7 @@ def radar_chart(df):
 radar_chart(df)
 
 # Additional Useful Plots
-# 1. Government Strategy vs. Commercial AI Activity
-plt.figure(figsize=(8, 5))
-sns.scatterplot(data=df, x="Government Strategy", y="Commercial", hue="Economic Status", palette="coolwarm")
-plt.title("Government Strategy vs. Commercial AI Activity")
-plt.xlabel("Government Strategy Score")
-plt.ylabel("Commercial AI Activity Score")
-plt.show()
-
-# 2. AI Research vs. Development
+# 1. AI Research vs. Development
 plt.figure(figsize=(8, 5))
 sns.regplot(data=df, x="Research", y="Development", scatter_kws={"alpha":0.6}, line_kws={"color":"red"})
 plt.title("AI Research vs. AI Development")
@@ -116,7 +108,7 @@ plt.xlabel("AI Research Score")
 plt.ylabel("AI Development Score")
 plt.show()
 
-# 3. Infrastructure vs. AI Score
+# 2. Infrastructure vs. AI Score
 plt.figure(figsize=(8, 5))
 sns.scatterplot(data=df, x="Infrastructure", y="Total score", hue="Economic Status", palette="Set1")
 plt.title("Infrastructure vs. AI Score")
