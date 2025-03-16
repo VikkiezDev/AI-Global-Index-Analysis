@@ -1,4 +1,5 @@
 # AI-Global-Index-Analysis
+- Data Source: https://www.kaggle.com/datasets/katerynameleshenko/ai-index
 
 ## **1. Introduction**
 Artificial Intelligence (AI) is a key driver of economic and technological growth. This report analyzes the AI Global Index dataset, which benchmarks 62 countries based on AI-related factors like Talent, Infrastructure, Research, and Investment. The goal is to uncover key insights and propose actionable recommendations to bridge the AI development gap between emerging and developed economies.
