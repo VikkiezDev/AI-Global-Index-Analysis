@@ -50,6 +50,10 @@ A comparative radar chart highlighted that:
 - **Encourage AI collaborations with leading tech hubs.**
 - **Develop AI sandboxes for businesses to test and innovate safely.**
 
-## **6. Conclusion**
+## **6. Additional Plots**
+- AI Research vs. AI Development - Highlights the correlation between research efforts and AI development.
+- Infrastructure vs. AI Score - Examines how infrastructure impacts a country's overall AI readiness.
+
+## **7. Conclusion**
 This analysis highlights the stark differences in AI development between developed and emerging economies. By prioritizing **talent development, infrastructure improvements, and AI research investments**, emerging countries can bridge the AI gap and drive sustainable innovation.
 
